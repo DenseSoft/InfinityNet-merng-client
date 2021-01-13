@@ -1,0 +1,58 @@
+.page-title{
+    display: block !important;
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.comment-button{
+    margin-left: 5px !important;
+}
+.register-page-title{
+    margin-bottom: 50px !important;
+}
+.register-submit-button{
+    margin-top: 30px !important;
+}
+.like-button{
+    background-color: transparent !important;
+    border-color: red !important;
+    color: red !important;
+}
+.post-card{
+    border: 1px solid transparent !important;
+}
+.post-card-verified{
+    border: 1px solid rgb(96, 128, 159) !important;
+    /* rgb(96, 128, 159) grey-cyan*/ 
+}
+.create-post-button{
+    margin-bottom: 20px !important;
+}
+.delete-confirm{
+    border: 3px solid red !important;
+    border-radius: 8px !important;
+}
+.create-post-button{
+    margin-top: 20px !important;
+}
+.create-post-form{
+    border: 3px solid white !important;
+    border-radius: 8px !important;
+}
+.comment-border-verified{
+    border: 1px solid rgb(96, 128, 159) !important;
+    border-radius: 5px !important;
+}
+.comment-border{
+    border: 1px solid rgba(0,0,0,.25) !important;
+    border-radius: 5px !important;
+}
+.create-comment-form{
+    border: 3px solid white !important;
+    border-radius: 8px !important;
+}
+.delete-comment-button{
+    background-color: transparent !important;
+    color: black !important;
+}
